@@ -36,6 +36,3 @@ while i < 3 :
 print("完成组合！")
 end = time.time()
 print('组合程序运行时长: %s 秒'%(end-start))
-
-
-
